@@ -9,5 +9,5 @@ By using this program, you acknowledge and accept these terms.
 # Installation
 Click the start.bat File or execute this command in the Terminal
 ```
-	python3 FileCorrupt.py
+python3 FileCorrupt.py
 ```
